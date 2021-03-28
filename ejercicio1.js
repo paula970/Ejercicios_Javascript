@@ -1,4 +1,4 @@
-var diccionario = "abcdefghijklmnñopqrstuvwxy";
+var diccionario = "abcdefghijklmnñopqrstuvwxyz";
 var text = document.getElementById("cadena");
 var boton = document.getElementById("click");
 var bolean = true;
